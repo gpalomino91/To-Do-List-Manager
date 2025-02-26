@@ -96,10 +96,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Email: gpalomino1991@gmail.com
 
 ---
-
-### **Acknowledgments:**
-Special thanks to everyone who contributed to the development and improvement of this project.
-
----
-
-### **Do you want to add or modify any section before uploading to GitHub?**

@@ -1,0 +1,15 @@
+/workspaces/To-Do-List-Manager/ToDoListManager/bin/Debug/net8.0/ToDoListManager
+/workspaces/To-Do-List-Manager/ToDoListManager/bin/Debug/net8.0/ToDoListManager.deps.json
+/workspaces/To-Do-List-Manager/ToDoListManager/bin/Debug/net8.0/ToDoListManager.runtimeconfig.json
+/workspaces/To-Do-List-Manager/ToDoListManager/bin/Debug/net8.0/ToDoListManager.dll
+/workspaces/To-Do-List-Manager/ToDoListManager/bin/Debug/net8.0/ToDoListManager.pdb
+/workspaces/To-Do-List-Manager/ToDoListManager/obj/Debug/net8.0/ToDoListManager.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/To-Do-List-Manager/ToDoListManager/obj/Debug/net8.0/ToDoListManager.AssemblyInfoInputs.cache
+/workspaces/To-Do-List-Manager/ToDoListManager/obj/Debug/net8.0/ToDoListManager.AssemblyInfo.cs
+/workspaces/To-Do-List-Manager/ToDoListManager/obj/Debug/net8.0/ToDoListManager.csproj.CoreCompileInputs.cache
+/workspaces/To-Do-List-Manager/ToDoListManager/obj/Debug/net8.0/ToDoListManager.sourcelink.json
+/workspaces/To-Do-List-Manager/ToDoListManager/obj/Debug/net8.0/ToDoListManager.dll
+/workspaces/To-Do-List-Manager/ToDoListManager/obj/Debug/net8.0/refint/ToDoListManager.dll
+/workspaces/To-Do-List-Manager/ToDoListManager/obj/Debug/net8.0/ToDoListManager.pdb
+/workspaces/To-Do-List-Manager/ToDoListManager/obj/Debug/net8.0/ToDoListManager.genruntimeconfig.cache
+/workspaces/To-Do-List-Manager/ToDoListManager/obj/Debug/net8.0/ref/ToDoListManager.dll
